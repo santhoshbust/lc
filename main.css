@@ -1,0 +1,62 @@
+#color{
+    background-color:rgb(245, 245, 245);
+}
+
+
+
+
+
+
+#wrapper{
+    background-color:whitesmoke;
+    width: 25%;
+    padding-bottom: 15%;
+    
+    margin-left: 35%;
+    margin-top: 25%;
+    margin-right: 25%;
+    margin-bottom: 45%;
+    border-radius:20px 20px 20px 20px ;
+    box-sizing: content-box;
+    border-style:outset;
+    
+    color:black;
+    box-shadow:-4px -4px 10px;
+}
+#title{
+    margin-left: 33%;
+}
+#input{
+margin-top:10%;
+margin-bottom: 15%;
+margin-left: 25%;
+margin-right: 25%;
+border-radius: 5px;
+padding:10px;
+border-style: inset;
+
+
+}
+#button{
+    margin-left:29%;
+    margin-top: 1px;
+    
+   
+
+    
+    
+}
+#submit{
+    color:white;
+    background-color:rgb(22, 21, 21);
+    border-radius: 5px ;
+    font-size: medium;
+    padding: 10px;
+    border-style: inset;
+    
+}
+#result{
+    margin-left:40%;
+    margin-top: 10px;
+    font-size: larger;
+}
